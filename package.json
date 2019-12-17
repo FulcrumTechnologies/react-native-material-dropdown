@@ -21,9 +21,6 @@
     "url": "ssh://git@github.com/FulcrumTechnologies/npm-repo.git",
     "directory": "react-components/react-native-material-dropdown"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
