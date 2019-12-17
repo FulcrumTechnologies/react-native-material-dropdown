@@ -1,5 +1,5 @@
 {
-  "name": "react-native-material-dropdown",
+  "name": "@FulcrumTechnologies/react-native-material-dropdown",
   "version": "0.11.1",
   "license": "BSD-3-Clause",
   "author": "Alexander Nazarov <n4kz@n4kz.com>",
@@ -18,8 +18,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/FulcrumTechnologies/npm-repo.git",
-    "directory": "react-components/react-native-material-dropdown"
+    "url": "ssh://git@github.com/FulcrumTechnologies/npm-repo.git"
   },
   "peerDependencies": {
     "react": "*",
